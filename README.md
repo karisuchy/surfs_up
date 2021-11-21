@@ -2,7 +2,7 @@
 
 ## Overview
 
-Develop a plan to move to Hawii and open a Surf n' Shake Shop that will serve surf boards and ice cream to locals and tourists. In addition to using my personal savings, I will need investor backing. I have already developed a business plan and am now analyzing the weather to  
+Develop a plan to move to [which island?] Hawii and open a Surf n' Shake Shop that will serve surf boards and ice cream to locals and tourists. In addition to using my personal savings, I will need investor backing. I have already developed a business plan and am now analyzing the weather to  
 
 
 ## Resources
@@ -12,12 +12,20 @@ Develop a plan to move to Hawii and open a Surf n' Shake Shop that will serve su
 
 ## Results
 
+
+
+### Precipitaton
+
 Instructions: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
 
-
+### Temperatures
 
 ![jun_dec_temp_chart](https://user-images.githubusercontent.com/90162669/142744770-5d942b94-2660-4bd5-8682-2f21e9c91bf4.png)
+
+
+### Flask
+
 
 
 ## Summary
