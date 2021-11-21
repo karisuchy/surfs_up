@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to help others develop a plan to open a Surf n' Shake Shop on Hawaii's [which island?] island. The shop will serve surf boards and ice cream to locals and tourists. 
+The goal of this project is to help others develop a plan to open a Surf n' Shake Shop on Hawaii's O'ahu island. The shop will serve surf boards and ice cream to locals and tourists. 
 
 I analyzed weather patterns to make sure precipitation and temperatures are ideal for this type of shop.   
 
@@ -56,6 +56,6 @@ This page shows the low, average, and high temperatures for dates specified by t
 
 ## Summary
 
-Levels of precipitation and temperatures on the Hawaiian island of XXX are ideal for a Surf n' Shake Shop. Once potential sites have been located for this shop, I suggest looking specifically at the weather station(s) closest to the potential sites. In addition, analyzing weather data by year, for the last few years would be beneficial to understand what impact, if any, climate change has had or may have on the island in the near future.  
+Levels of precipitation and temperatures on the Hawaiian island of O'ahu are ideal for a Surf n' Shake Shop. Once potential sites have been located for this shop, I suggest looking specifically at the weather station(s) closest to the potential sites. In addition, analyzing weather data by year, for the last few years, would be beneficial to understand what impact, if any, climate change has had or may have on the island in the near future. 
 
 All information is available for review on Git Hub.
