@@ -2,9 +2,7 @@
 
 ## Overview
 
-Develop a plan to move to [which island?] Hawii and open a Surf n' Shake Shop that will serve surf boards and ice cream to locals and tourists. I have already developed a business plan and am now analyzing weather patterns to make sure precipitation and temperatures are ideal for this type of shop.   
-
-In addition to using my personal savings, I will need investor backing. 
+The goal of this project is to help otherws develop a plan to move to open a Surf n' Shake Shop in [which island?] Hawii. The shop will serve surf boards and ice cream to locals and tourists. I analyzed weather patterns to make sure precipitation and temperatures are ideal for this type of shop.   
 
 ## Resources
 
@@ -12,14 +10,10 @@ In addition to using my personal savings, I will need investor backing.
 - Software: Python 3.7, VS Studio Code 1.62.3, Jupyter 6.3.0, Pandas 1.2.4, SQLite, SQLAlchemy, Flask 
 
 ## Results
-After importing dependancies, I set up SQLAlchemy. 
-
-![image](https://user-images.githubusercontent.com/90162669/142765385-b9762017-bab2-4e7c-8be5-5932aa77b504.png)
-
 
 
 ### Precipitaton
-I then developed code to look at 12 previous months of precipation and mapped the results. 
+After importing dependancies, I set up SQLAlchemy and developed code to look at 12 previous months of precipation. 
 
 ![image](https://user-images.githubusercontent.com/90162669/142765423-4a12e47d-b2b9-425e-a835-8ee019ea8708.png)
 
@@ -29,26 +23,35 @@ I then developed code to look at 12 previous months of precipation and mapped th
 
 ### Temperatures
 
-I next looked at temperatures for the previous year, turned the results into a dataframe and mapped the results.  
+I next looked at temperatures for the previous year and mapped those results.  
 
 ![image](https://user-images.githubusercontent.com/90162669/142772466-afd41f84-7816-43f5-b0e0-36926d7d2b32.png)
 
 
-
-
 ![image](https://user-images.githubusercontent.com/90162669/142765904-9effb192-9400-40d2-801b-ecf59d7f2367.png)
+
+### Weather by Season
 
 Since the overall year round data looked so promising, I next looked for results for the months of June and December. 
 
 ![jun_dec_temp_chart](https://user-images.githubusercontent.com/90162669/142744770-5d942b94-2660-4bd5-8682-2f21e9c91bf4.png)
 
 
+There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+
 ### Flask
 
-The final step in this process was to use Flask to upload the results to te web for others to view. 
+The final step in this process was to use Flask to upload the results to the web for others to view. 
 
 
-The print screen below shows the low, average, and high temperatures for the month of June 2017. 
+As examples, the print screen below show:
+- 
+- The weather staions available for which to choose temperature data
+- The low, average, and high temperatures for the month of June 2017. 
+
+![flask_temps](https://user-images.githubusercontent.com/90162669/142773528-1bbdc1f6-b5d1-487b-bd57-5399caabdf6d.png)
+
+![flask_stations](https://user-images.githubusercontent.com/90162669/142773536-8d6a88cc-0939-44b3-97f4-f018717bb408.png)
 
 ![Flask_temps_spec_dates](https://user-images.githubusercontent.com/90162669/142772057-69f35819-d461-4298-a50e-abaf66224ab3.png)
 
