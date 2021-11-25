@@ -2,14 +2,19 @@
 
 ## Overview
 
-The goal of this project is to help others develop a plan to open a Surf n' Shake Shop on Hawaii's O'ahu island. The shop will serve surf boards and ice cream to locals and tourists. 
+The goal of this project is to help others develop a plan to open a Surf n' Shake Shop on Hawaii's Oahu island. The shop will serve surf boards and ice cream to locals and tourists. 
 
-I analyzed weather patterns to make sure precipitation and temperatures are ideal for this type of shop.   
+I analyzed weather patterns to make sure precipitation and temperatures are ideal for this type of shop by using the following resources:    
+
+- SQLAlchemy to query the SQLite database. 
+- Jupyter/Python SQLite and SQLAlchemy to query and analyze the data.
+- Matplotlib to graph results of the analysis. 
+- VS Code to design a Flask application to share the findings in a webage. 
 
 ## Resources
 
 - Data Sources:climate_analysis.ipynb, hawaii.sqlite  
-- Software: Python 3.7, VS Studio Code 1.62.3, Jupyter 6.3.0, Pandas 1.2.4, SQLite, SQLAlchemy, Flask 
+- Software: Python 3.7, VS Studio Code 1.62.3, Jupyter 6.3.0, Matplotlib, Pandas 1.2.4, SQLite, SQLAlchemy, Flask 
 
 ## Results
 
@@ -32,7 +37,7 @@ Since the overall year round data looked so promising, I next looked for results
 
 ![jun_dec_temp_chart](https://user-images.githubusercontent.com/90162669/142744770-5d942b94-2660-4bd5-8682-2f21e9c91bf4.png)
 
-Hawaii does not experience the same seasonal temperature fluctuates as many other locales, such as my home state of Minnesota. Specific temperature comparisons between June and December are: 
+Hawaii does not experience the same seasonal temperature fluctuations as many other areas, such as my home state of Minnesota. Specific temperature comparisons between June and December are: 
 
 - The low temperature in December is 56 degrees Fahrenheit which is 8 degrees cooler than the June low of 64.
 - The high temperature in December is 83 which is only 2 degrees lower than June's high of 85.
@@ -56,6 +61,6 @@ This page shows the low, average, and high temperatures for dates specified by t
 
 ## Summary
 
-Levels of precipitation and temperatures on the Hawaiian island of O'ahu are ideal for a Surf n' Shake Shop. Once potential sites have been located for this shop, I suggest looking specifically at the weather station(s) closest to the potential sites. In addition, analyzing weather data by year, for the last few years, would be beneficial to understand what impact, if any, climate change has had or may have on the island in the near future. 
+Levels of precipitation and temperatures on the Hawaiian island of Oahu are ideal for a Surf n' Shake Shop. Once potential sites have been located for this shop, I suggest looking specifically at the weather station(s) closest to the potential sites. In addition, analyzing weather data by year, for the last few years, would be beneficial to understand what impact, if any, climate change has had or may have on the island in the near future. 
 
 All information is available for review on Git Hub.
